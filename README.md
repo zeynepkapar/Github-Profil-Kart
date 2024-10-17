@@ -12,5 +12,5 @@ Bu proje, girdiğiniz GitHub kullanıcı adına ait profil bilgilerini gösteren
 - Basit ve kullanıcı dostu arayüz.
 
 - # Gif
-- 
+  
 ![kart](https://github.com/user-attachments/assets/15548e20-772e-46c7-bf98-d1a3f213fe8c)
